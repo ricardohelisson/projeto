@@ -2,6 +2,6 @@ a = 10
 b = 11
 
 
-soma = a + b
+soma1 = a + b
 
-print(soma)
+print(soma1)
